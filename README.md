@@ -1,9 +1,10 @@
 # Hi, I'm Rida, like the "rida" in Florida 👋
 
-**Commerce + Data Science @ UVA**
+**Commerce and Data Science at UVA**
 
-- **Previously:** SWE Intern @ Leidos · 2nd place @ JPMC Data for Good Hackathon 2026
-- **Interested in:** AI/ML product development: training models and shipping them as working tools
+- **Previously** Software Engineering Intern at Leidos
+- **2nd place** at the JPMorgan Chase Data for Good Hackathon 2026
+- **Interested in** AI/ML product development, from training models to shipping them as working tools
 - **Let's connect** — [ceo@tyeconnects.org](mailto:ceo@tyeconnects.org)
 
 ## Featured project
