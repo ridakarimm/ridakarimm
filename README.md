@@ -3,7 +3,7 @@
 **Commerce + Data Science @ UVA**
 
 - 💼 **Previously:** SWE Intern @ Leidos · 2nd place @ JPMC Data for Good Hackathon 2026
-- 🤖 **Interested in:** AI/ML development: training models and shipping them as working tools
+- 🤖 **Interested in:** AI/ML product development
 - 📫 **Let's connect** — [ceo@tyeconnects.org](mailto:ceo@tyeconnects.org)
 
 ## Featured project
