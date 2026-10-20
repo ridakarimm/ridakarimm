@@ -1,12 +1,10 @@
 # Hi, I'm Rida 👋
 
-I study **Commerce and Data Science at the University of Virginia**. I like the unglamorous part of ML: untangling
-inconsistent records, catching placeholder values and leaky features, and making a model beat a real baseline before
-I trust it.
+**Commerce + Data Science @ UVA**
 
-- 💼 Former **Software Engineering Intern at Leidos**
-- 🏆 My team placed **2nd at JPMorgan Chase's 2026 Data for Good Hackathon**
-- 🤖 Currently into gradient-boosted models, NLP and text similarity, and turning models into tools people can use
+- 💼 **Previously:** SWE Intern @ Leidos · 2nd place @ JPMC Data for Good Hackathon 2026
+- 🤖 **Interested in:** AI/ML development: training models and shipping them as working tools
+- 📫 **Let's connect** — [ceo@tyeconnects.org](mailto:ceo@tyeconnects.org)
 
 ## Featured project
 
