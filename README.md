@@ -1,6 +1,6 @@
 # Hi, I'm Rida, like the "rida" in Florida 👋
 
-**Commerce and Data Science at UVA**
+**First-generation college student studying Commerce and Data Science at UVA**
 
 - **Previously** Software Engineering Intern at Leidos
 - **2nd place** at the JPMorgan Chase Data for Good Hackathon 2026
