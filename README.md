@@ -10,7 +10,7 @@
 ## Featured project
 
 **[Femicide in the United States](https://github.com/ridakarimm/femicide-analysis)**<br>
-Analyzed 7,976 recorded femicide cases to find where rates are highest per capita and what sets multi-victim cases
+Analyzed 8,000 recorded femicide cases to find where rates are highest per capita and what sets multi-victim cases
 apart, using an XGBoost model to identify the factors that matter most.
 
 ## Tools
