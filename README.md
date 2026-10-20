@@ -1,11 +1,12 @@
 # Hi, I'm Rida 👋
 
-I study **Commerce and Data Science at the University of Virginia**, and I'm interested in applying AI and machine
-learning to real-world problems, especially ones with social impact.
+I study **Commerce and Data Science at the University of Virginia**. I like the unglamorous part of ML: untangling
+inconsistent records, catching placeholder values and leaky features, and making a model beat a real baseline before
+I trust it.
 
 - 💼 Former **Software Engineering Intern at Leidos**
 - 🏆 My team placed **2nd at JPMorgan Chase's 2026 Data for Good Hackathon**
-- 🤖 Interested in AI/ML, data science and analytics
+- 🤖 Currently into gradient-boosted models, NLP and text similarity, and turning models into tools people can use
 
 ## Featured project
 
