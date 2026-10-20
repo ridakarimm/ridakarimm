@@ -9,7 +9,7 @@
 
 ## Featured project
 
-**[Femicide in the United States](https://github.com/ridakarimm/femicide-analysis)**
+**[Femicide in the United States](https://github.com/ridakarimm/femicide-analysis)**<br>
 Analyzed nearly 8,000 recorded femicide cases to find where rates are highest per capita and what sets multi-victim
 cases apart. Built an XGBoost model that identifies multi-victim incidents with 81% accuracy.
 
