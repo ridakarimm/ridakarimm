@@ -5,6 +5,7 @@
 - **Previously** Software Engineering Intern at Leidos
 - **2nd place** at the JPMorgan Chase Data for Good Hackathon 2026
 - **Interested in** AI/ML product development, from training models to shipping them as working tools
+- **Passionate about** technology for good, using data and AI to tackle social issues
 - **Let's connect** — [ceo@tyeconnects.org](mailto:ceo@tyeconnects.org)
 
 ## Featured project
