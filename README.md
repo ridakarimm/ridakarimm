@@ -12,14 +12,10 @@
 ## Featured projects
 
 **[Femicide in the United States](https://github.com/ridakarimm/femicide-analysis)**, Lightning Talk at MIT URTC<br>
-A study of 8,000 recorded femicide cases to find which states have the highest rates per capita and what sets
-multi-victim cases apart. Uses pandas to clean and map the data and an XGBoost classifier to rank the factors that
-matter most.
+A study of 8,000 recorded femicide cases to find the states with the highest rates and what sets multi-victim cases apart. Uses pandas to clean and map the data and an XGBoost classifier to identify the risk factors that matter most.
 
 **Grant Intelligence for AnnieCannons**, 2nd place at the JPMorgan Chase Data for Good Hackathon<br>
-A tool utilized by AnnieCannons' grant team to choose which grants to pursue and strengthen their applications. Uses
-a logistic regression model to predict each grant's chance of success and an NLP scorer to compare draft answers
-with past winning and losing ones.
+A tool utilized by AnnieCannons' grant team to choose which grants to pursue and how to strengthen each application. Uses logistic regression to predict each grant's odds of success and an NLP scorer to compare drafts to past answers.
 
 ## Tools
 
