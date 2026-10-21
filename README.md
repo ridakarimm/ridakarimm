@@ -11,11 +11,11 @@
 
 ## Featured projects
 
-**[Femicide Risk Factors in the United States](https://github.com/ridakarimm/femicide-analysis)**, Lightning Talk at MIT URTC<br>
-A study of 8,000 recorded femicide cases to find the states with the highest rates and what sets multi-victim cases apart. Uses pandas to clean and map the data and an XGBoost classifier to identify the risk factors that matter most.
+**[Femicide in the United States](https://github.com/ridakarimm/femicide-analysis) | MIT Undergraduate Research Technology Conference (URTC)**<br>
+Analyzed 8,000 documented femicide cases to uncover geographic disparities and distinguish risk factors associated with multi-victim incidents. Leveraged Python, pandas, and geospatial analysis to identify high-risk states, applying XGBoost to model the key predictors of multi-victim incidents.
 
-**Grant Intelligence for AnnieCannons**, 2nd Place at JPMC Data for Good<br>
-A tool utilized by AnnieCannons' grant team to choose which grants to pursue and how to strengthen each application. Uses logistic regression to predict each grant's odds of success and an NLP scorer to compare drafts to past answers.
+**Grant Intelligence for AnnieCannons | 2nd Place, JPMorgan Chase Data for Good Hackathon**<br>
+Co-developed an AI-powered grant intelligence platform to optimize funding decisions and strengthen AnnieCannons' grant applications. Built a logistic regression model to predict grant success probabilities and an NLP evaluation system using TF-IDF similarity to benchmark application responses against historical submissions.
 
 ## Tools
 
