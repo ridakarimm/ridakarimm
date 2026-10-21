@@ -12,7 +12,7 @@
 ## Featured projects
 
 **[Femicide in the United States](https://github.com/ridakarimm/femicide-analysis) | MIT Undergraduate Research Technology Conference (URTC)**<br>
-Analyzed 8,000 documented femicide cases to uncover geographic disparities and distinguish risk factors associated with multi-victim incidents. Leveraged Python, pandas, and geospatial analysis to identify high-risk states, applying XGBoost to model the key predictors of multi-victim incidents.
+Analyzed 8,000 documented femicide cases to uncover geographic disparities and distinguish risk factors associated with multi-victim incidents. Leveraged Python, pandas, and geospatial analysis to identify high-risk states, applying XGBoost to model the key predictors of these incidents.
 
 **Grant Intelligence for AnnieCannons | 2nd Place, JPMorgan Chase Data for Good Hackathon**<br>
 Co-developed an AI-powered grant intelligence platform to optimize funding decisions and strengthen AnnieCannons' grant applications. Built a logistic regression model to predict grant success probabilities and an NLP evaluation system using TF-IDF similarity to benchmark application responses against historical submissions.
